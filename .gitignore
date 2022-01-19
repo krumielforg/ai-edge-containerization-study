@@ -1,0 +1,5 @@
+models/
+__pycache__/
+.DS_Store
+t10k-images-idx3-ubyte
+*.zip
