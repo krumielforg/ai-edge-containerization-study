@@ -34,7 +34,7 @@ The full dataset including raw data, data analysis python scripts and automatiza
 
 #### Overview on running the experiment
 
-![alt text](https://github.com/krumielf/vuthesis/blob/main/replication_package/files/Screenshot%202022-01-18%20at%2021.02.51.png)
+![alt text](https://github.com/krumielforg/ai-edge-containerization-study/blob/main/files/Screenshot%202022-01-18%20at%2021.02.51.png)
 
 Pre-requisites:
 
