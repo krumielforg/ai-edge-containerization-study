@@ -34,8 +34,6 @@ The full dataset including raw data, data analysis python scripts and automatiza
 
 #### Overview on running the experiment
 
-![alt text](/files/Screenshot%202022-01-18%20at%2021.02.51.png)
-
 Pre-requisites:
 
 - [Raspberry Pi] Install the necessary packages (check Dockerfile for a detailed list on those)
