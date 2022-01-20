@@ -1,12 +1,7 @@
 # Replication Package
-_An empirical study on the performance and energy consumption of AI containerization strategies on the Edge_
+_An empirical study on the Performance and Energy Consumption of AI Containerization Strategies for Computer-Vision Tasks on the Edge_
 
 The full dataset including raw data, data analysis python scripts and automatization scripts produced during the study are available below.
-
-This study has been designed, developed, and reported by the following investigators:
-- Raluca Maria Hampău (Vrije Universiteit Amsterdam)
-- Ivano Malavolta (Vrije Universiteit Amsterdam)
-- ...
 
 #### Overview of the replication package scripts
 
